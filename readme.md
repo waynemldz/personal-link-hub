@@ -38,5 +38,3 @@ A personal landing page that centralizes important links such as portfolio, soci
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
